@@ -23,7 +23,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/uaE2L67"  ><a href="//imgur.com/a/uaE2L67">CodePath W102 prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
@@ -35,6 +34,8 @@ GIF created with ScreenToGif
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+After finished all the challenges I was planning to implement a navbar on top of the pages and a search features for the game section. But for some reason the input tag I implmented does not allow user to type anything. I also tried to implement bootstrap to make it easier to modify the style of the website but lots of the styling coiled with the original style of the website and causing the button not functioning properly. Then I turn around to just simply modifying some small style of the website.
 
 ## License
 
