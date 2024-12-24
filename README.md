@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] improve style of the website
+* [x] added a search bar for games
 
 ## Video Walkthrough
 
