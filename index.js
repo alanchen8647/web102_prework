@@ -177,3 +177,23 @@ secondGameContainer.appendChild(secondGame)
 // firstGameContainer.innerHTML = nameFirst;
 // secondGameContainer.innerHTML = nameSecond;
 // do the same for the runner up item
+
+
+//Search bar
+
+
+function search(text){
+    console.log(text)
+    const result = GAMES_JSON.filter(games => games.name.includes(text));
+    deleteChildElements(gamesContainer);
+    if(result.length>0){
+        addGamesToPage(result);
+    } else {
+        const container = document.getElementById('games-container')
+        container.innerHTML="Game not found"
+    }
+    
+}
+const searchBar = document.getElementById('searchInput')
+const searchBTN = document.getElementById('search');
+searchBTN.addEventListener("click", () => search(searchBar.value));
