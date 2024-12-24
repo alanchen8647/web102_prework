@@ -35,7 +35,7 @@ GIF created with ScreenToGif
 
 Describe any challenges encountered while building the app.
 
-After finished all the challenges I was planning to implement a navbar on top of the pages and a search features for the game section. But for some reason the input tag I implmented does not allow user to type anything. I also tried to implement bootstrap to make it easier to modify the style of the website but lots of the styling coiled with the original style of the website and causing the button not functioning properly. Then I turn around to just simply modifying some small style of the website.
+After finished all the challenges I was planning to implement a navbar on top of the pages and a search features for the game section. I also tried to implement bootstrap to make it easier to modify the style of the website but lots of the styling coiled with the original style of the website and causing the button not functioning properly. Then I turn around to just simply modifying some small style of the website.
 
 ## License
 
